@@ -1,4 +1,4 @@
-package com.example.springboot_jhh.servlet;
+package com.example.springbootweb.servlet;
 
 
 import com.alibaba.druid.support.http.StatViewServlet;
